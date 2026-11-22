@@ -19,3 +19,6 @@ function resetScore() {
     homeScoreEl.textContent = 0
     guestScoreEl.textContent = 0
 }
+
+window.addPoints
+window.resetScore
